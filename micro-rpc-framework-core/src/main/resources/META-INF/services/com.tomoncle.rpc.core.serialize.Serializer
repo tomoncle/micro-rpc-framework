@@ -1,0 +1,3 @@
+com.tomoncle.rpc.core.serialize.impl.MetadataSerializer
+com.tomoncle.rpc.core.serialize.impl.RpcRequestSerializer
+com.tomoncle.rpc.core.serialize.impl.StringSerializer
